@@ -1,0 +1,36 @@
+Macro: INCR
+Index	Value
+1	:	A
+2	:	B
+3	:	AREG
+
+Macro: INCR_M
+Index	Value
+1	:	C
+2	:	D
+3	:	BREG
+
+Macro: INCR_M
+Index	Value
+1	:	A
+2	:	B
+3	:	AREG
+
+Macro: INCR_D
+Index	Value
+1	:	A
+2	:	B
+3	:	AREG
+
+Macro: INCR_D
+Index	Value
+1	:	A
+2	:	B
+3	:	AREG
+
+Macro: INCR_D
+Index	Value
+1	:	A
+2	:	B
+3	:	BREG
+

@@ -1,0 +1,10 @@
+A	AREG
+B	--
+U	CREG
+V	DREG
+MEM_VAL	--
+INCR_VAL	--
+REG	--
+MEM_VAL	--
+INCR_VAL	--
+REG	AREG
